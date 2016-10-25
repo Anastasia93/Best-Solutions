@@ -1,5 +1,5 @@
-# One-page Web-site "Best Solutions"
-practicing:
+# Technology stack:
+
 - HTML5 + CSS;
 - Bootstrap;
 - Favicon;
